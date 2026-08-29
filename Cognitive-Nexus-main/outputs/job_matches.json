@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Backend Developer (Python)",
+    "company": "CloudBridge Technologies",
+    "location": "Pune, India",
+    "experience": "0-2 years",
+    "match_percentage": 75.0,
+    "matched_skills": [
+      "flask",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "git"
+    ]
+  },
+  {
+    "title": "Full Stack Developer Trainee",
+    "company": "WebCraft Studio",
+    "location": "Remote",
+    "experience": "0 years",
+    "match_percentage": 75.0,
+    "matched_skills": [
+      "css",
+      "html",
+      "python"
+    ],
+    "missing_skills": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Junior AI Engineer",
+    "company": "TechNova Solutions",
+    "location": "Bangalore, India",
+    "experience": "0-1 years",
+    "match_percentage": 50.0,
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "machine learning",
+      "tensorflow"
+    ]
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Insight Analytics",
+    "location": "Gurugram, India",
+    "experience": "0 years",
+    "match_percentage": 50.0,
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "machine learning",
+      "pandas"
+    ]
+  },
+  {
+    "title": "ML Intern",
+    "company": "DataForge Labs",
+    "location": "Remote",
+    "experience": "0 years",
+    "match_percentage": 25.0,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "machine learning",
+      "numpy",
+      "pandas"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "regex_based": {
+    "skills": {
+      "technical": [
+        "Python",
+        "Java",
+        "C++",
+        "C",
+        "SQL",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Flask",
+        "MongoDB",
+        "MySQL",
+        "Git",
+        "GitHub",
+        "Machine Learning",
+        "AI",
+        "Artificial Intelligence",
+        "NumPy",
+        "Pandas",
+        "REST API",
+        "Data Structures",
+        "Algorithms"
+      ],
+      "soft": [
+        "Leadership",
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Collaboration"
+      ]
+    },
+    "education": [],
+    "projects": [
+      "Admission Chatbot | Python | Flask | SQLite | Scikit-learn | TF-IDF",
+      "\uf0b7 Constructed an intelligent chatbot to assist in answering questions about university admissions.",
+      "\uf0b7 Implemented information retrieval using TF-IDF and cosine similarity measure.",
+      "\uf0b7 Incorporated the Flask backend and SQLite database to handle dynamic queries.",
+      "Hand Gesture Recognition System | Python | OpenCV | Machine Learning",
+      "\uf0b7 Designed and implemented hand gesture recognition system utilizing OpenCV and machine learning techniques.",
+      "\uf0b7 Performed image preprocessing and feature extraction for gestures classification.",
+      "\uf0b7 Enabled touchless interactions using live gesture prediction.",
+      "Spotify Clone MERN | MongoDB | Express.js | React.js | Node.js",
+      "\uf0b7 Created a full-stack music streaming application using the MERN stack.",
+      "\uf0b7 Created secure REST APIs for uploading and playing music.",
+      "\uf0b7 Created responsive UI designs and managed backend efficiently."
+    ]
+  },
+  "llm_based": {
+    "technical_skills": [
+      "Python",
+      "Scikit-learn",
+      "Flask",
+      "SQLite",
+      "TF-IDF",
+      "OpenCV",
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "C",
+      "C++",
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "education": [
+      "Bachelor of Science (Artificial Intelligence and Machine Learning) - Maharishi Markandeshwar University - Present",
+      "12th PCMB- CBSE - Government Model Sanskriti Senior Secondary School, Barara, Ambala - 2023",
+      "10th CBSE - Adarsh Senior Secondary School, Nahra, Ambala - 2021"
+    ],
+    "projects": [
+      {
+        "name": "Admission Chatbot",
+        "description": "Constructed an intelligent chatbot to assist in answering questions about university admissions using TF-IDF and a Flask backend."
+      },
+      {
+        "name": "Hand Gesture Recognition System",
+        "description": "Designed and implemented a touchless interaction system utilizing OpenCV for image preprocessing and machine learning techniques."
+      },
+      {
+        "name": "Spotify Clone MERN",
+        "description": "Created a full-stack music streaming application using the MERN stack with secure REST APIs and responsive UI designs."
+      }
+    ],
+    "years_of_relevant_experience_estimate": "0-1 years"
+  },
+  "llm_generation_time_seconds": 6.29
+}

@@ -1,0 +1,22 @@
+{
+  "target_role": "AI Engineer",
+  "matched_skills": [
+    "python",
+    "sql"
+  ],
+  "missing_skills": [
+    "data science",
+    "deep learning",
+    "docker",
+    "fastapi",
+    "kubernetes",
+    "langchain",
+    "machine learning",
+    "nlp",
+    "pytorch",
+    "rag",
+    "rest api",
+    "tensorflow"
+  ],
+  "match_percentage": 14.3
+}

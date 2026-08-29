@@ -1,0 +1,65 @@
+{
+  "roadmap": [
+    {
+      "skill": "data science",
+      "duration": "Week 1",
+      "resource": "Search official documentation + build a small project"
+    },
+    {
+      "skill": "deep learning",
+      "duration": "Week 2-4",
+      "resource": "DeepLearning.AI Specialization (Coursera)"
+    },
+    {
+      "skill": "docker",
+      "duration": "Week 5",
+      "resource": "Docker official docs + Docker Mastery course"
+    },
+    {
+      "skill": "fastapi",
+      "duration": "Week 6",
+      "resource": "FastAPI official tutorial (fastapi.tiangolo.com)"
+    },
+    {
+      "skill": "kubernetes",
+      "duration": "Week 7-8",
+      "resource": "Kubernetes basics on KodeKloud"
+    },
+    {
+      "skill": "langchain",
+      "duration": "Week 9-10",
+      "resource": "LangChain official docs + build a RAG project"
+    },
+    {
+      "skill": "machine learning",
+      "duration": "Week 11",
+      "resource": "Search official documentation + build a small project"
+    },
+    {
+      "skill": "nlp",
+      "duration": "Week 12-13",
+      "resource": "NLP with Python \u2014 Hugging Face course"
+    },
+    {
+      "skill": "pytorch",
+      "duration": "Week 14",
+      "resource": "Search official documentation + build a small project"
+    },
+    {
+      "skill": "rag",
+      "duration": "Week 15-16",
+      "resource": "Build a RAG pipeline with LangChain + ChromaDB"
+    },
+    {
+      "skill": "rest api",
+      "duration": "Week 17",
+      "resource": "Build REST APIs with FastAPI or Flask"
+    },
+    {
+      "skill": "tensorflow",
+      "duration": "Week 18",
+      "resource": "Search official documentation + build a small project"
+    }
+  ],
+  "total_duration_weeks": 18
+}

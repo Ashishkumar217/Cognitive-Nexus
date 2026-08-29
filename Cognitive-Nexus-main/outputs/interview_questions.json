@@ -1,0 +1,33 @@
+{
+  "template_questions": {
+    "technical_questions": [
+      "Explain the difference between a list and a tuple in Python.",
+      "What are Python decorators and when would you use them?",
+      "How does Flask handle routing?",
+      "What is the difference between Flask and FastAPI?",
+      "What is the difference between INNER JOIN and LEFT JOIN?",
+      "How would you optimize a slow SQL query?"
+    ],
+    "coding_questions": [
+      "Write a function to check if a string is a palindrome.",
+      "Given an array of integers, find two numbers that add up to a target sum.",
+      "Implement a function to reverse a linked list.",
+      "Write a function to find the longest substring without repeating characters."
+    ],
+    "hr_questions": [
+      "Tell me about yourself.",
+      "Why do you want to work in this role?",
+      "Where do you see yourself in 5 years?",
+      "What is your biggest strength and weakness?",
+      "Why should we hire you over other candidates?"
+    ],
+    "behavioral_questions": [
+      "Tell me about a time you faced a challenging project and how you handled it.",
+      "Describe a situation where you had to work with a difficult team member.",
+      "Give an example of a time you had to learn a new skill quickly.",
+      "Tell me about a time you failed and what you learned from it."
+    ]
+  },
+  "llm_personalized_questions": "1. For your **Admission Chatbot**, you mentioned using TF-IDF and cosine similarity for information retrieval; could you walk me through how you selected features from unstructured text to build this vector space model? Specifically, did you normalize or weight terms differently compared to a standard bag-of-words approach to handle the varying length of user queries about university admissions?\n\n2. In your **Hand Gesture Recognition System**, what specific feature extraction technique (e.g., HOG descriptors, raw pixel values) and machine learning algorithm did you implement for classification, and how balanced was your dataset regarding different hand poses before training the model?\n\n3. Regarding your full-stack **Spotify Clone** built with MERN: How did you structure your database schema to manage user playlists versus song metadata efficiently in MongoDB, and what security measures implemented via Express.js ensured that users could only access their own uploaded music files securely over REST APIs?\n\n4. As an AI student focusing on ML solutions at SkillCraft Technology, how do you approach hyperparameter tuning for models like **Support Vector Machines** when working with practical datasets\u2014do you rely on Grid Search or RandomizedSearchCV to optimize performance metrics such as precision and recall in your projects?\n\n5. You have experience across both backend development (Flask/Node.js) and AI implementation; how do you typically handle the integration of a trained machine learning model into these web applications, specifically regarding real-time inference latency for live gesture prediction or chatbot responses?",
+  "llm_generation_time_seconds": 5.9
+}

@@ -1,0 +1,83 @@
+{
+  "resume_1": {
+    "resume_file": "Resume (3).pdf",
+    "word_count": 307,
+    "skills_found": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++",
+      "C",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Flask",
+      "Git",
+      "Machine Learning",
+      "AI",
+      "Artificial Intelligence",
+      "Data Science",
+      "TensorFlow",
+      "PyTorch",
+      "NumPy",
+      "Pandas"
+    ],
+    "skill_count": 18,
+    "ats_score": 98,
+    "target_role": "AI Engineer",
+    "skill_match_pct": 57.1,
+    "matched_skills": [
+      "machine learning",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "docker",
+      "fastapi"
+    ]
+  },
+  "resume_2": {
+    "resume_file": "Ankush Rana Official Resume (1).pdf",
+    "word_count": 466,
+    "skills_found": [
+      "Python",
+      "Java",
+      "C++",
+      "C",
+      "SQL",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "Flask",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Machine Learning",
+      "AI",
+      "Artificial Intelligence",
+      "NumPy",
+      "Pandas",
+      "REST API"
+    ],
+    "skill_count": 20,
+    "ats_score": 98,
+    "target_role": "Backend Developer",
+    "skill_match_pct": 62.5,
+    "matched_skills": [
+      "flask",
+      "git",
+      "java",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "django",
+      "docker",
+      "fastapi"
+    ]
+  }
+}

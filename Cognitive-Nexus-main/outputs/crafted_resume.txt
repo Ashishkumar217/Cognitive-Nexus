@@ -1,0 +1,46 @@
+Ankush Rana
+ar9525435@gmail.com | +918529026097 | Thamber, Haryana | LinkedIn | GitHub
+
+**Education**
+Maharishi Markandeshwar (Deemed to be University), Mullana | 09/2024 – Present
+Bachelor of Science in Artificial Intelligence and Machine Learning
+CGPA: 9.04/10 (Till IV Semester)
+
+Government Model Sanskriti Senior Secondary School, Barara, Ambala | 2023
+Percentage: 82.4% | PCMB - CBSE, Class 12th
+
+Adarsh Senior Secondary School, Nahra, Ambala | 2021
+Percentage: 91% | CBSE, Class 10th
+
+**Professional Experience**
+Machine Learning Intern | SkillCraft Technology (Remote) | 07/2025 – 08/2025
+*   Engineered predictive analytics solutions using Python and Scikit-learn on real-world datasets to solve business problems.
+*   Developed regression models for demand forecasting, achieving a prediction accuracy improvement of approximately [Insert % if known] compared to baseline methods (e.g., moving averages).
+*   Implemented classification algorithms including Linear Regression and Support Vector Machines (SVM) optimized via cross-validation pipelines.
+*   Executed end-to-end data science workflows: raw data cleaning with Pandas, feature engineering for non-linear relationships, hyperparameter tuning using GridSearchCV, and rigorous performance evaluation metrics (R² Score, F1-Score).
+
+**AI Engineering & Deployment Skills**
+*   **Machine Learning:** Scikit-learn, NumPy, Pandas, TensorFlow/Keras (Conceptual), PyTorch.
+*   **Deep Learning:** Neural Network Architectures, CNNs for Image Classification, NLP Techniques (TF-IDV, Cosine Similarity).
+*   **Backend & API Development:** FastAPI (Framework knowledge), Flask, RESTful Services design.
+*   **Containerization & DevOps:** Docker (Dockerfile creation and container orchestration basics).
+*   **Data Science Stack:** OpenCV for Computer Vision preprocessing, Matplotlib/Seaborn for visualization.
+
+**Projects**
+Admission Chatbot | Python | Flask | SQLite | Scikit-learn
+*   Built a rule-based NLP chatbot utilizing TF-IDF vectorization and cosine similarity to retrieve relevant answers regarding university admissions with high precision.
+*   Designed the backend logic using FastAPI/Flask principles to serve dynamic queries efficiently, reducing response latency for user interactions by optimizing database lookups in SQLite.
+
+Hand Gesture Recognition System | Python | OpenCV | Machine Learning (Scikit-learn)
+*   Developed a touchless interaction system capable of classifying specific hand gestures with [Insert %] accuracy using feature extraction and supervised learning models.
+*   Implemented real-time inference pipelines that process live video streams, demonstrating the ability to integrate computer vision preprocessing into an ML workflow for immediate action triggers.
+
+Spotify Clone (MERN) | MongoDB | Express.js | React.js | Node.js
+*   Architected a scalable full-stack music streaming application with secure REST APIs designed to handle high-concurrency user requests.
+*   Leveraged backend logic to manage complex data relationships, serving as a foundation for future AI integration such as personalized recommendation engines using collaborative filtering algorithms.
+
+**Technical Skills**
+*   **Languages:** Python (Advanced), C++, Java, SQL, HTML/CSS/JavaScript.
+*   **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, OpenCV, Flask/FastAPI concepts.
+*   **Databases:** MySQL, SQLite, MongoDB.
+*   **Tools:** Git/GitHub, Docker (Containerization), VS Code, Jupyter Notebooks.

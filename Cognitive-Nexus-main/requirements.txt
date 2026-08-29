@@ -1,0 +1,14 @@
+langchain
+langchain-ollama
+pandas
+numpy
+matplotlib
+plotly
+pypdf
+pdfplumber
+spacy
+scikit-learn
+fpdf2
+reportlab
+ipywidgets
+requests

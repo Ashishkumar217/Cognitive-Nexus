@@ -1,0 +1,18 @@
+{
+  "rule_based_suggestions": [
+    {
+      "category": "Missing Keywords",
+      "suggestion": "Consider adding these in-demand skills if you have experience with them: data science, deep learning, docker, fastapi, kubernetes"
+    },
+    {
+      "category": "Contact Info",
+      "suggestion": "Add your LinkedIn profile URL for recruiters to find you easily"
+    },
+    {
+      "category": "Contact Info",
+      "suggestion": "Add your GitHub profile to showcase your projects and code quality"
+    }
+  ],
+  "llm_generated_feedback": "Quantify your internship impact by specifying concrete metrics (e.g., \"improved model accuracy from X% to Y%\" or \"reduced inference time by Z ms\") rather than listing task completion steps like \"performed data preprocessing.\" Replace generic framework mentions with specific deep learning frameworks (PyTorch/TensorFlow) and deployment tools (Docker, Kubernetes) if you have used them; otherwise, explicitly clarify that your experience is limited to Scikit-learn. Reframe the Spotify Clone project description from a standard MERN stack application into an AI-relevant context by highlighting any machine learning integration or data analysis performed within the backend APIs. Add a dedicated \"AI Engineering & Deployment\" section under Skills to group Python libraries with their corresponding orchestration tools (Docker, FastAPI) rather than burying them in broad categories like \"Libraries.\" Ensure your GitHub links contain repositories that demonstrate end-to-end ML pipelines with clear READMEs explaining feature engineering and model evaluation strategies.",
+  "llm_generation_time_seconds": 4.11
+}

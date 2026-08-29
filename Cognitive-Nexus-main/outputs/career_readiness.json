@@ -1,0 +1,26 @@
+{
+  "ats": {
+    "ats_score": 100,
+    "feedback": [
+      "Great! Your resume covers the key ATS-friendly elements"
+    ]
+  },
+  "readiness": {
+    "career_readiness_score": 20.0,
+    "breakdown": {
+      "resume": 100,
+      "dsa": 0,
+      "projects": 0,
+      "communication": 0,
+      "interview": 0,
+      "consistency": 0
+    },
+    "weak_areas": [
+      "dsa",
+      "projects",
+      "communication",
+      "interview",
+      "consistency"
+    ]
+  }
+}

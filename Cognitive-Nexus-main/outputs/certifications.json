@@ -1,0 +1,59 @@
+{
+  "skill_based_certifications": [
+    {
+      "name": "Docker Certified Associate",
+      "provider": "Docker Inc.",
+      "for_skill": "docker"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "provider": "Stanford/DeepLearning.AI",
+      "for_skill": "machine learning"
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "provider": "Google/TensorFlow",
+      "for_skill": "tensorflow"
+    },
+    {
+      "name": "FastAPI Course Certificate",
+      "provider": "Udemy",
+      "for_skill": "fastapi"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "provider": "DeepLearning.AI (Coursera)",
+      "for_skill": "deep learning"
+    },
+    {
+      "name": "Natural Language Processing Specialization",
+      "provider": "DeepLearning.AI (Coursera)",
+      "for_skill": "nlp"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "provider": "CNCF",
+      "for_skill": "kubernetes"
+    },
+    {
+      "name": "LangChain for LLM Application Development",
+      "provider": "DeepLearning.AI",
+      "for_skill": "langchain"
+    },
+    {
+      "name": "IBM Data Science Professional Certificate",
+      "provider": "IBM",
+      "for_skill": "data science"
+    }
+  ],
+  "general_recommendations": [
+    {
+      "name": "AMD AI PC Developer Certification",
+      "provider": "AMD University Program"
+    },
+    {
+      "name": "GitHub Foundations",
+      "provider": "GitHub"
+    }
+  ]
+}

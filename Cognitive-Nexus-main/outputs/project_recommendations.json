@@ -1,0 +1,66 @@
+{
+  "beginner": [
+    {
+      "name": "Resume ATS Analyzer",
+      "description": "Build a tool that scores resumes against job descriptions",
+      "uses_existing_skills": [
+        "python"
+      ],
+      "builds_new_skills": [
+        "nlp"
+      ]
+    },
+    {
+      "name": "Chatbot with Rule-Based Logic",
+      "description": "A simple FAQ chatbot using pattern matching",
+      "uses_existing_skills": [
+        "python"
+      ],
+      "builds_new_skills": []
+    }
+  ],
+  "intermediate": [
+    {
+      "name": "RAG-based Document Q&A",
+      "description": "Answer questions from PDF documents using retrieval-augmented generation",
+      "uses_existing_skills": [
+        "python"
+      ],
+      "builds_new_skills": [
+        "langchain",
+        "rag"
+      ]
+    },
+    {
+      "name": "Image Classifier API",
+      "description": "Deploy a trained CNN model as a REST API",
+      "uses_existing_skills": [],
+      "builds_new_skills": [
+        "fastapi",
+        "tensorflow"
+      ]
+    }
+  ],
+  "advanced": [
+    {
+      "name": "Multi-Agent Career Assistant",
+      "description": "Build a multi-agent system like CareerForge AI itself",
+      "uses_existing_skills": [],
+      "builds_new_skills": [
+        "docker",
+        "kubernetes",
+        "langchain"
+      ]
+    },
+    {
+      "name": "Fine-tuned LLM Deployment",
+      "description": "Fine-tune an open-source LLM and deploy it as a scalable API",
+      "uses_existing_skills": [],
+      "builds_new_skills": [
+        "docker",
+        "fastapi",
+        "pytorch"
+      ]
+    }
+  ]
+}

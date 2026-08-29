@@ -1,0 +1,13 @@
+{
+  "original": {
+    "ats_score": 100,
+    "skills_found": 12,
+    "word_count": 466
+  },
+  "crafted": {
+    "ats_score": 90,
+    "skills_found": 18,
+    "word_count": 440
+  },
+  "ats_score_improvement": -10
+}

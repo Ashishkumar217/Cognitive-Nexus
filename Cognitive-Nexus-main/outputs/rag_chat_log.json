@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What certifications should I get?",
+    "retrieved_sources": [
+      "certifications",
+      "certifications",
+      "certifications",
+      "certifications"
+    ],
+    "answer": "Hello! Based on your interests, here are top recommendations to boost your career: For data science, aim for the **IBM Data Science Professional Certificate**. If you're diving into containers and cloud infrastructure, seek the **Docker Certified Associate** from Docker Inc. To specialize in neural networks, consider the **TensorFlow Developer Certificate** or the comprehensive **Deep Learning Specialization by DeepLearning.AI**. These credentials validate your skills with industry leaders like IBM, Google, and Coursera. Choose one that aligns best with your specific project goals!"
+  },
+  {
+    "query": "Tell me about my strongest skills",
+    "retrieved_sources": [
+      "skills",
+      "skill_gap",
+      "readiness",
+      "roadmap"
+    ],
+    "answer": "Your technical foundation is impressive! You possess robust programming expertise in **Python**, **C/C++/Java**, and full-stack capabilities with frameworks like **Flask** and **React.js**. Your database knowledge (**SQL**, **MongoDB**) combined with image processing skills via **OpenCV** shows strong versatility. While your resume score reflects this solid technical grasp, the data indicates we need to focus heavily on building concrete projects and improving communication to translate these skills into real-world impact. Let's aim for those next steps together!"
+  },
+  {
+    "query": "What jobs am I ready for right now?",
+    "retrieved_sources": [
+      "readiness",
+      "skills",
+      "project_rec",
+      "resume"
+    ],
+    "answer": "Ankush, your resume shines with a perfect 100 score and strong fundamentals like Python, ML libraries (Scikit-learn), web frameworks (Flask/Express.js), and AI concepts. You've already built projects in chatbots and interned at SkillCraft! Based on this, you are currently ready for **Junior Machine Learning Engineer**, **Data Analyst Internships**, or roles as a **Python Developer**.\n\nHowever, your readiness score is low because DSA, communication skills, project depth (beyond tutorials), and interview prep are zero. To move from \"intern-ready\" to \"hired,\" focus immediately on solving algorithmic challenges daily, practicing technical interviews aloud, and building one complex end-to-end project like the suggested ATS Analyzer. Your academic CGPA is excellent; now let's polish your practical portfolio!"
+  }
+]

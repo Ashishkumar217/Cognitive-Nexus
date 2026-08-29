@@ -1,0 +1,57 @@
+Ankush Rana
+ar9525435@gmail.com | +918529026097 | Thamber, Haryana |LinkedIn |GitHub
+Education
+Maharishi Markandeshwar (Deemed to be University), Mullana 09/2024 - Present
+Bachelor of Science (Artificial Intelligence and Machine Learning)
+CGPA: 9.04/10 (Till IV Semester)
+Government Model Sanskriti Senior Secondary School, Barara, Ambala Percentage: 82.4%
+PCMB- CBSE, 12th 2023
+Adarsh Senior Secondary School, Nahra, Ambala Percentage: 91%
+CBSE, 10th
+2021
+Experience
+Machine Learning Intern | SkillCraft Technology Remote | 07/2025 – 08/2025
+ Designed and implemented machine learning solutions utilizing Python and Scikit-learn packages on practical datasets.
+ Created and analyzed models such as Linear Regression and Support Vector Machines.
+ Performed data preprocessing, feature engineering, model training, and performance evaluation.
+Projects
+Admission Chatbot | Python | Flask | SQLite | Scikit-learn | TF-IDF
+ Constructed an intelligent chatbot to assist in answering questions about university admissions.
+ Implemented information retrieval using TF-IDF and cosine similarity measure.
+ Incorporated the Flask backend and SQLite database to handle dynamic queries.
+Hand Gesture Recognition System | Python | OpenCV | Machine Learning
+ Designed and implemented hand gesture recognition system utilizing OpenCV and machine learning techniques.
+ Performed image preprocessing and feature extraction for gestures classification.
+ Enabled touchless interactions using live gesture prediction.
+Spotify Clone MERN | MongoDB | Express.js | React.js | Node.js
+ Created a full-stack music streaming application using the MERN stack.
+ Created secure REST APIs for uploading and playing music.
+ Created responsive UI designs and managed backend efficiently.
+Skills
+ Programming Languages: C, C++, Java, Python, SQL, HTML, CSS, Java Script.
+ Libraries & Frameworks: Scikit-learn, Pandas, NumPy, Flask, OpenCV, React.js, Node.js, Express.js.
+ Databases: MySQL, SQLite, MongoDB.
+ Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Google Colab.
+ Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Operating Systems,
+Machine Learning, Artificial Intelligence, Image Processing, Object-Oriented Programming.
+ Soft Skills: Problem Solving, Leadership, Teamwork, Communication, Analytical Thinking.
+Certifications
+ Machine Learning Internship – SkillCraft Technology
+ AI on AMD
+ AI Agents on AMD
+ Introduction to Large Language Models
+ Introduction to Retrieval Augmented Generation (RAG)
+ Hugging Face on AMD
+ BCG GenAI Job Simulation
+Position of Responsibility
+Class Representative | Maharishi Markandeshwar University
+ Served as an interface between professors and students for academic coordination.
+ Communicated about academic activity and student queries.
+Organizing Committee Member | Technophilia Coding Relay
+ Helped to coordinate and organize coding activities in collaboration with other team members.
+ Supported in organizing the event and handling participants.
+Team Leader | SD Tech4Society Hackathon 2026
+ Helped in forming a team and worked together to build a mental health chatbot using AI technology.
+ Handled task allocation, team coordination, and presenting the project.
+Extracurricular Activities & Achievements
+ Attended the SD Tech4Society Hackathon 2026 and formed an AI Mental Health Chatbot.
