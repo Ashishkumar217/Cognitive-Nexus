@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Cognitive Nexus Banner" width="100%">
+  <img src="assets/screenshots/Banner.png" alt="Cognitive Nexus Banner" width="100%">
 </p>
 
 # Cognitive Nexus
